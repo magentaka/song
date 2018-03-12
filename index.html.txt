@@ -8,27 +8,30 @@
 </head>
   <body>
 	<h1>BLUR</h1>
-	<p>
-	Woo-hoo 
-	When I feel heavy-metal
-	Woo-hoo 
-	And I'm pins and I'm needles
-	Woo-hoo 
-	Well, I lie and I'm easy
-	All the time but I am never sure
-	Why I need you
-	Pleased to meet you
-	</p>
-	<p>
-	I got my head done
-	When I was young
-	It's not my problem
-	</p>
-	Woo-hoo 
-	Woo-hoo 
-	Woo-hoo 
-	Woo-hoo 
-	<p>
-	</p>
+    	<h2> SONG 2</h2>
+    	<div class="woo">
+      		<p>Woo-hoo</p> 
+    	</div>
+    	<p>When I feel heavy-metal</p>
+    	<div class="woo">
+	    <p>Woo-hoo</p> 
+    	</div>
+	 <p>And I'm pins and I'm needles</p>
+    	<div class="woo">
+		<p>Woo-hoo</p> 
+    	</div>
+    	<p>Well, I lie and I'm easy</p>
+	<p>All the time but I am never sure</p>
+	<p>Why I need you</p>
+	<p>Pleased to meet you</p>
+	<p>I got my head done</p>
+	<p>When I was young</p>
+	<p>It's not my problem</p>
+    	<div class="woo">
+	    <p>Woo-hoo</p> 
+	    <p>Woo-hoo</p> 
+	    <p>Woo-hoo</p> 
+	    <p>Woo-hoo</p>
+    	</div>
   </body>
 </html>
