@@ -1,0 +1,23 @@
+<html lang="pl-PL">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SONG2</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+  <body>
+	<h1>BLUR</h1>
+	<p>
+	Woo-hoo 
+	When I feel heavy-metal
+	Woo-hoo 
+	And I'm pins and I'm needles
+	Woo-hoo 
+	Well, I lie and I'm easy
+	All the time but I am never sure
+	Why I need you
+	Pleased to meet you
+	</p>
+  </body>
+</html>
